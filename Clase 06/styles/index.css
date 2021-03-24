@@ -1,0 +1,31 @@
+.parrafo {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 90px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: plum;
+    background-color: rgb(205, 50, 50);
+
+}
+
+.caja {
+    background-color: navajowhite;
+    width: 300px;
+    height: 300px;
+}
+
+.imagen {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Back_to_the_Future_film_series_logo.png/220px-Back_to_the_Future_film_series_logo.png");
+    width: 700px;
+    height: 300px;
+    background-position: center center;
+    background-size: cover;
+}
+.planta {
+    background-image: url("../sebastian.jpg");
+    width: 400px;
+    height: 600px;
+    background-position: center center;
+    background-size: cover;
+}

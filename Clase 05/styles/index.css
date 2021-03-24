@@ -1,0 +1,11 @@
+h1 { /* ATRIBUTO DE COLOR POR TIPO DE TITULO */
+    color: red; 
+}
+
+#titulo { /* ATRIBUTO DE COLOR POR ID o # */
+    color:red; 
+}
+
+.titulo { /* ATRIBUTO DE COLOR POR CLASE */
+    color: red;
+}
