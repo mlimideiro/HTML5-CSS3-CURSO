@@ -1,0 +1,19 @@
+#parrafo1, #parrafo2 { /*PINTA POR CONCATENACION */
+    color: plum;
+    }
+
+.parrafo {
+        color: plum;
+    }
+
+.parrafo + p { /* PINTA AL PARRAFO Y LA ETIQUETA INMEDIATA SIGUIENTE */
+    color: plum;
+}
+
+.contenedor > p { /* PINTA AL CONTENEDOR Y SUS HIJOS */
+    color: green;
+}
+
+#parrafo1 ~ p {  /* PINTA AL HERMANO p id=parrafo2 DEL MISMO COLOR */
+    color: brown;
+}
